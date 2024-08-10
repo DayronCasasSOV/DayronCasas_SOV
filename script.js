@@ -1,0 +1,1 @@
+alert("Hola Bienvenido, haz click en Aceptar para visualizar la pagina");
