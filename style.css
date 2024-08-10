@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+
+    width: 10%;
+    margin-right: 200%;
+
+}
+
+.imagen2{
+    margin-top: -210px;
+    margin-left: 16%;
+
+}
+
+.qs {
+    color: red;
+    text-decoration: underline;
+}
+.ds {
+    color: blue;
+    text-decoration: underline;
+}
+.mv {
+    color: red;
+    text-decoration: underline;
+}
+.m {
+    color: #c2955a;
+    text-decoration: underline;
+}
+.v {
+    color: #c2955a;
+    text-decoration: underline;
+}
+.og {
+    color:rgb(23, 110, 224);
+    text-decoration: underline;
+}
+.canal {
+    color:rgb(23, 110, 224) ;
+    text-decoration: underline;
+    
+}
+
+.contenedor {
+    padding: 60px 0;
+    width: 80%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.titulo {
+    color: #000;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 60px;
+    text-decoration: underline;
+
+}
+
+.leer-mas{
+    font-weight: 300;
+    text-decoration: none;
+    background-color: coral;
+    padding: 9px;
+    border-radius: 10px;
+    margin-left: 25%;
+    font-size: 20px;
+
+    
+}
+nav{
+
+    text-align: right;
+    padding: 30px 50px 0 0;
+    color: #000;
+   
+}
+
+    
+nav > a{
+    font-weight: 300;
+    text-decoration: none;
+    margin-right: 60px;
+    background-color: coral;
+    padding: 9px;
+    border-radius: 10px;
+}
+
+nav > a:hover{
+    text-decoration: underline;
+
+}
+
+.imagen-primero{
+    width: 70%;
+    
+}
+
+.sobre-nosotros .contenido-textos{
+    width: 60%;
+    padding: 0px 0px 50px 0px;
+    font-size: 20px;
+    line-height: 2;
+
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    line-height: 2;
+}
+
+.mision-vision .contenido-textos{
+    width: 60%;
+    padding: 0px 0px 60px 0px;
+    font-size: 20px;
+    line-height: 2;
+}
+
+.contacto .contenido-textos{
+    width: 120%;
+    color: aliceblue;
+    font-size: 20px;
+    line-height: 2;
+    background-color: rgb(22, 100, 201);
+    padding: 35px;
+
+
+}
+
